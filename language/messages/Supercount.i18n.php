@@ -2,7 +2,7 @@
 /**
 * Interface messages for tool "Supercount".
 *
-* @toolowner Cyberpower786
+* @toolowner Cyberpower678
 */
 
 $url = '//tools.wmflabs.org/supercount/';
