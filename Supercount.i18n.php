@@ -1,7 +1,11 @@
 <?php
 /**
+<<<<<<< HEAD
 * Interface messages for tool "Supercount"
 * Interface messages for tool "XTools"
+=======
+* Interface messages for tool "Supercount".
+>>>>>>> 3bf269b966dcd6ce65e7bd766a2e4f37b8bf6e2e
 *
 * @toolowner Cyberpower678
 */
@@ -119,6 +123,7 @@ $messages['en'] = array (
 		'atbe' => 'Average time between edits',
 		'avgsize' => 'Average article size',
 		'editcount' => 'c',
+<<<<<<< HEAD
 		
 		//Range Contribs
 		'tool' => 'Range Contributions',
@@ -128,6 +133,9 @@ $messages['en'] = array (
 		'ip_end' => 'Ending IP',
 		'ip_number' => 'Possible IPs',
 		'ip_found' => 'IPs found',
+=======
+
+>>>>>>> 3bf269b966dcd6ce65e7bd766a2e4f37b8bf6e2e
 );
 
 /** Sorani Kurdish (کوردی)
