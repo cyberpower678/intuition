@@ -1,6 +1,7 @@
 <?php
 /**
-* Interface messages for tool "Supercount".
+* Interface messages for tool "Supercount"
+* Interface messages for tool "XTools"
 *
 * @toolowner Cyberpower678
 */
@@ -118,7 +119,15 @@ $messages['en'] = array (
 		'atbe' => 'Average time between edits',
 		'avgsize' => 'Average article size',
 		'editcount' => 'c',
-
+		
+		//Range Contribs
+		'tool' => 'Range Contributions',
+		'nocontribs' => 'No contributions found',
+		'cidr' => 'CIDR',
+		'ip_start' => 'Starting IP',
+		'ip_end' => 'Ending IP',
+		'ip_number' => 'Possible IPs',
+		'ip_found' => 'IPs found',
 );
 
 /** Sorani Kurdish (کوردی)
